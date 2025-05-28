@@ -2,6 +2,7 @@
   "name": "json-quick-tools",
   "displayName": "json-quick-tools",
   "description": "Functions to easily parse/format JSON from the text editor",
+  "repository": "https://github.com/sidhique/json-quick-tools",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.100.0"

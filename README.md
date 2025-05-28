@@ -23,7 +23,7 @@ Simply select your string, trigger the parse command, and get instant, perfectly
     * **`Cmd+Shift+P`** (macOS)
     * **`Ctrl+Shift+P`** (Windows/Linux)
 
-    
+![Parse to JSON](./images/parse.gif)
 
 ### ↔️ Stringify JSON
 
@@ -38,6 +38,8 @@ Select your JSON content or ensure it's in your clipboard, activate the stringif
 2.  Use the keyboard shortcut:
     * **`Cmd+Shift+O`** (macOS)
     * **`Ctrl+Shift+O`** (Windows/Linux)
+
+![Stringify JSON](./images/strigify.gif)
 
 ### ⌨️ Keyboard Shortcuts
 
