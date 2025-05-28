@@ -1,10 +1,11 @@
 {
   "name": "json-quick-tools",
-  "displayName": "json-quick-tools",
-  "description": "Functions to easily parse/format JSON from the text editor",
+  "displayName": "JSON QuickTools",
+  "description": "Instantly parse string into readable JSON or compactify JSON into a string, all with convenient keyboard shortcuts.",
   "repository": "https://github.com/sidhique/json-quick-tools",
   "publisher": "Sidhique",
-  "version": "0.0.1",
+  "version": "0.0.2",
+  "icon": "images/icon.webp",
   "engines": {
     "vscode": "^1.100.0"
   },
