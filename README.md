@@ -43,7 +43,7 @@ Select your JSON content or ensure it's in your clipboard, activate the stringif
 
 ### ⌨️ Keyboard Shortcuts
 
-Access all functionalities at lightning speed with dedicated keyboard shortcuts. No more navigating menus – your most common JSON tasks are just a keypress away. Customize shortcuts to fit your workflow for an even more personalized experience. (Details on default shortcuts and customization will be provided in the **Usage** section).
+Access all functionalities at lightning speed with dedicated keyboard shortcuts. No more navigating menus – your most common JSON tasks are just a keypress away.
 
 ---
 ## Release Notes
