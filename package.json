@@ -4,7 +4,7 @@
   "description": "Instantly parse string into readable JSON or compactify JSON into a string, all with convenient keyboard shortcuts.",
   "repository": "https://github.com/sidhique/json-quick-tools",
   "publisher": "Sidhique",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "icon": "images/icon.webp",
   "engines": {
     "vscode": "^1.0.0"
@@ -30,12 +30,14 @@
         "command": "json-quick-tools.parseJson",
         "key": "cmd+shift+p",
         "win": "alt+win+p",
+        "linux": "alt+win+p",
         "when": "editorTextFocus"
       },
       {
         "command": "json-quick-tools.stringify",
         "key": "cmd+shift+o",
         "win": "alt+win+o",
+        "linux": "alt+win+o",
         "when": "editorTextFocus"
       }
     ]

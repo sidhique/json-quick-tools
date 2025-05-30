@@ -56,7 +56,7 @@ Initial release
 ### 0.0.3
 Compatibility updated for older versions
 
-### 0.0.4
+### 0.0.5
 Keybinding changes for windows
 
 
