@@ -21,7 +21,7 @@ Simply select your string, trigger the parse command, and get instant, perfectly
 1.  **Select** the string you want to parse in the editor (e.g., `"{\"name\":\"value\"}"`).
 2.  Use the keyboard shortcut:
     * **`Cmd+Shift+P`** (macOS)
-    * **`Ctrl+Shift+P`** (Windows/Linux)
+    * **`Alt+Win+P`** (Windows/Linux)
 
 ![Parse to JSON](./images/parse.gif)
 
@@ -37,7 +37,7 @@ Select your JSON content or ensure it's in your clipboard, activate the stringif
 1.  **Select** the JSON text in an active editor/input field
 2.  Use the keyboard shortcut:
     * **`Cmd+Shift+O`** (macOS)
-    * **`Ctrl+Shift+O`** (Windows/Linux)
+    * **`Alt+Win+O`** (Windows/Linux)
 
 ![Stringify JSON](./images/strigify.gif)
 
@@ -50,9 +50,14 @@ Access all functionalities at lightning speed with dedicated keyboard shortcuts.
 
 Users appreciate release notes as you update your extension.
 
-### 1.0.0
-
+### 0.0.1
 Initial release
+
+### 0.0.3
+Compatibility updated for older versions
+
+### 0.0.4
+Keybinding changes for windows
 
 
 
