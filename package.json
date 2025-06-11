@@ -12,6 +12,23 @@
   "categories": [
     "Other"
   ],
+  "tags": [
+    "json",
+    "json tools",
+    "format json",
+    "parse json",
+    "stringify json",
+    "json formatter",
+    "json parser",
+    "json utilities",
+    "developer tools",
+    "productivity",
+    "json helper",
+    "json convert",
+    "json prettify",
+    "json compact",
+    "json syntax"
+  ],
   "activationEvents": [],
   "main": "./out/extension.js",
   "contributes": {
