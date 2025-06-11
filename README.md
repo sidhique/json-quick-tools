@@ -59,6 +59,8 @@ Compatibility updated for older versions
 ### 0.0.5
 Keybinding changes for windows
 
+### 0.0.6
+Tags added
 
 
 **Enjoy!**
